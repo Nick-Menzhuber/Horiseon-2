@@ -10,6 +10,8 @@ N/A
 
 ## Usage
 
+URL:[https://nick-menzhuber.github.io/Horiseon-2/](https://nick-menzhuber.github.io/Horiseon-2/)
+
 The site functions identically as before; when inspecting the code, users should see an improvement in the flow of the code.
 
 ## Credits
